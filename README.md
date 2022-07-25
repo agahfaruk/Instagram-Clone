@@ -1,4 +1,4 @@
 # İnstagram - Clone
 ***
-[instagram-clone](kodluyoruzodev2-bootstrap-instagram-clone)
+[instagram-clone](kodluyoruzodev2-bootstrap-instagram-clone.png)
 
